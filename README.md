@@ -6,3 +6,9 @@
 Code中有核心控制代码和光电鼠标代码
 
 光电鼠标传感器是PAW3395，代码是在 https://github.com/Ghost-Girls/PMW3360-3389-PAW3395_STM32-CH32-APM32 的基础上修改的，PCB参照手册中推荐电路即可。
+
+![](https://github.com/Mr-Kowalski007/JNU_Hovercraft/blob/main/Image/0.jpg)
+
+![](https://github.com/Mr-Kowalski007/JNU_Hovercraft/blob/main/Image/1.jpg)
+
+![](https://github.com/Mr-Kowalski007/JNU_Hovercraft/blob/main/Image/2.png)
