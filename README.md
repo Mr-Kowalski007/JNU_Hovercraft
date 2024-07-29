@@ -11,4 +11,6 @@ Code中有核心控制代码和光电鼠标代码
 
 ![](https://github.com/Mr-Kowalski007/JNU_Hovercraft/blob/main/Image/1.jpg)
 
+https://github.com/user-attachments/assets/ed13dd87-b547-4f6e-abd4-c893caba4224
+
 ![](https://github.com/Mr-Kowalski007/JNU_Hovercraft/blob/main/Image/2.png)
